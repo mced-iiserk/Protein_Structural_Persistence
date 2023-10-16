@@ -1,7 +1,7 @@
 # Protein_Structural_Persistence
 Computes Structural Persistence of a protein with respect to a reference structure of itself.
 
-The str_persistence directory contains a tcl script for computing the structural persistence of protein and of the selected region of the protein (here the active site pocket region).
+The repository contains a tcl script for computing the structural persistence of protein and of the selected region of the protein (here the active site pocket region).
 
 - Prerequisite: VMD
 
